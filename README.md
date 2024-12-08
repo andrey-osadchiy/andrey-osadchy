@@ -1,5 +1,7 @@
 ### Hi, I'm Andrey Osadchy 👋
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![LinkdeDN]([URL_логотипа](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+))]([https://example.com](https://www.linkedin.com/in/andrey-osadchiy-520783b2/))
+
 <!--
 
 
